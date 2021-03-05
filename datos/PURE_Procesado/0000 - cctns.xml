@@ -15,11 +15,6 @@
                 The solution should provide detailed context-sensitive help material for all the possible actions and scenarios on all user interfaces in the application.
                 </text_body>
             </req>
-            <req id="2">
-                <text_body>
-                The solution should provide detailed context-sensitive help material for all the possible actions and scenarios on all user interfaces in the application.
-                </text_body>
-            </req>
         </p>
         <p id="">
 
@@ -56,15 +51,7 @@
             </title>
             <req id="1">
                 <text_body>
-                An audit trail is a record of actions taken by either the user or the system triggers. This includes actions taken by users or Administrators, or actions initiated automatically by the system as a result of system parameters. The System must keep an unalterable audit trail capable of automatically capturing and storing information about:
-                    <itemize>
-                        <item>All the actions (create/read/update/delete) that are taken upon the critical entities (case, suspect, property,...) in the system
-                        </item>
-                        <item>The user initiating and or carrying out the action;</item>
-                        <item>The date and time of the event.</item>
-                        <item>Administrative parameters</item>
-                    </itemize>
-                The word “unalterable” is to mean that the audit trail data cannot be modified in any way or deleted by any user; it may be subject to re-department and copying to removable media if required, so long as its contents remain unchanged.
+                The System must keep an unalterable audit trail capable of automatically capturing and storing information.
                 </text_body>
             </req>
             <req id="2">
@@ -146,14 +133,8 @@
             </req>
             <req id="7">
                 <text_body>
-            If a user requests access to, or searches for, a case which he does not have the right to access, the System must provide one of the following responses (selectable at configuration time):
-                    <itemize>
-                        <item>display title and metadata;</item>
-                        <item>display the existence of a case but not its title or other metadata;</item>
-                        <item>do not display any case information or indicate its existence in any way.</item>
-                    </itemize>
-            These options are presented in order of increasing security. Note that the requirement in the third option (i.e. the most stringent) implies that the System must not include such cases in any count of search results; this level of security is normally appropriate for cases dealing with matters such as national security.
-                </text_body>
+            If a user requests access to, or searches for, a case which he does not have the right to access, the System must provide one of the following responses
+               </text_body>
             </req>
             <req id="8">
                 <text_body>
@@ -209,12 +190,8 @@
             </req>
             <req id="7">
                 <text_body>
-            The System must allow persistent defaults for data entry where desirable. These defaults should include:
-                    <itemize>
-                        <item>user-definable values;</item>
-                        <item>values same as previous item;</item>
-                        <item>values derived from context, e.g. date, file reference, user identifier;</item>
-                    </itemize>
+            The System must allow persistent defaults for data entry where desirable.
+
                 </text_body>
             </req>
             <req id="8">
@@ -224,13 +201,7 @@
             </req>
             <req id="9">
                 <text_body>
-           Where the System employs a graphical user interface, it must allow users to customise it. Customisation should include, but need not be limited to the following changes:
-                    <itemize>
-                        <item>menu contents;</item>
-                        <item>layout of screens;</item>
-                        <item>use of function keys;</item>
-                        <item>on-screen colours, fonts and font sizes;</item>
-                    </itemize>
+           Where the System employs a graphical user interface, it must allow users to customise it.
                 </text_body>
             </req>
         </p>
@@ -251,8 +222,22 @@
             </req>
             <req id="3">
                 <text_body>
-            ICT accessibility: ISO 9241-20 shall be the standard for guidance on ICT accessibility. Application user interfaces to meet its requirements and recommendations. Software accessibility ISO 9241-171 shall be the standard for guidance on software accessibility. User interfaces should meet its requirements and recommendations. Content accessibility WCAG 1.0 shall be the standard used for guidance on content accessibility. The application logo to be available on all pages as a link to the home page.
+             Content accessibility WCAG 1.0 shall be the standard used for guidance on content accessibility. 
                 </text_body>
+
+                <text_body>
+                    Software accessibility ISO 9241-171 shall be the standard for guidance on software accessibility. 
+                </text_body>
+
+                <text_body>
+                    ICT accessibility: ISO 9241-20 shall be the standard for guidance on ICT accessibility. 
+                </text_body>
+                
+                <text_body>
+                    The application logo to be available on all pages as a link to the home page.
+                </text_body>
+                
+
             </req>
             <req id="4">
                 <text_body>
@@ -351,7 +336,7 @@
             </req>
             <req id="23">
                 <text_body>
-           Distinguishable within-page links: Within-page links should be clearly distinguishable from other links that lead to a different page. EX. Within-page links are shown with dashed rather than solid underlines
+           Distinguishable within-page links: Within-page links should be clearly distinguishable from other links that lead to a different page. Within-page links are shown with dashed rather than solid underlines
                 </text_body>
             </req>
             <req id="24">
@@ -436,7 +421,7 @@
             </req>
             <req id="40">
                 <text_body>
-           Consistency between navigation components and content: If navigation components (or overviews) are shown in conjunction with associated content, consistency between the navigation component and the content shown should be maintained by indicating in the navigation component (e.g. highlighting) the topic currently visible in the content area.
+           Consistency between navigation components and content: If navigation components are shown in conjunction with associated content, consistency between the navigation component and the content shown should be maintained by indicating in the navigation component the topic currently visible in the content area.
                 </text_body>
             </req>
             <req id="41">
@@ -446,8 +431,18 @@
             </req>
             <req id="42">
                 <text_body>
-           Individualization and user adaptation : Adapting the content and the navigation of a user interface to individual users or user groups can be a useful mechanism for providing information that is of interest to the users and for making access to relevant information more efficient. User adaptation can also be important for making the user interface more accessible. Different approaches can be used for achieving these goals, like providing users with means for customizing the user interface to their personal needs i.e. individualization designing content and navigation differently for varying user groups or roles i.e. such as employees of different levels, citizens etc, monitoring the user’s behaviour and adapting to the user’s goals that are inferred from the behaviour observed, recommending information that is potentially more relevant or interesting to the specific user, based on the behaviour of all users or a user group.
+           Individualization and user adaptation : Adapting the content and the navigation of a user interface to individual users or user groups can be a useful mechanism for providing information that is of interest to the users and for making access to relevant information more efficient. 
+           
                 </text_body>
+
+                <text_body>
+                    User adaptation can also be important for making the user interface more accessible.
+                </text_body>
+
+                <text_body>
+                    Different approaches can be used for achieving these goals, like providing users with means for customizing the user interface to their personal needs i.e. individualization designing content and navigation differently for varying user groups or roles i.e. such as employees of different levels, citizens etc, monitoring the user’s behaviour and adapting to the user’s goals that are inferred from the behaviour observed, recommending information that is potentially more relevant or interesting to the specific user, based on the behaviour of all users or a user group.
+                </text_body>
+
             </req>
             <req id="43">
                 <text_body>
@@ -671,41 +666,116 @@
             The system should ensure secure transmission of data over the network and utilize SSL and 2-way digital signatures
                 </text_body>
             </req>
-            <req id="23">
+
+
+            <req>
                 <text_body>
-            The system should ensure high standards of security and access control through:
-                    <enum>
-                        <item>Prevent cross-site scripting</item>
-                        <item>Validate the incoming data / user request</item>
-                        <item>Encode the incoming data / user request</item>
-                        <item>Prevent SQL Injection</item>
-                        <item>Utilize parameterized queries</item>
-                        <item>Sanitize the user-inputs</item>
-                        <item>Validate the data both at the client and server</item>
-                        <item>Do not allow hard delete and perform only soft tagging the row for deletion</item>
-                    </enum>
+                    The system should ensure high standards of security and access control through: Prevent cross-site scripting
                 </text_body>
             </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Validate the incoming data / user request
+                </text_body>
+            </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Encode the incoming data / user request
+                </text_body>
+            </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Prevent SQL Injection
+                </text_body>
+            </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Utilize parameterized queries
+                </text_body>
+            </req>
+
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Sanitize the user-inputs
+                </text_body>
+            </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Validate the data both at the client and server
+                </text_body>
+            </req>
+
+            <req>
+                <text_body>
+                    The system should ensure high standards of security and access control through: Do not allow hard delete and perform only soft tagging the row for deletion
+                </text_body>
+            </req>
+
             <req id="24">
                 <text_body>
-            The system should ensure high scalability and performance through:
-                    <enum>
-                        <item>Use of cache for storing frequent data</item>
-                        <item>Use of AJAX based technology to improve user experience. Aggressive page loading to be considered based on the screen and estimate usage pattern</item>
-                        <item>Leverage Asynchronous HTTP socket capabilities of web server for scalability and performance</item>
-                        <item>Host all the static content (documents, images) on the web server</item>
-                        <item>The search results should be fetched from the database in batches of 10 or 20 maximum
-                    as configured within the application</item>
-                        <item>Display of records on the screen in batches/paged manner</item>
-                        <item>The search should fetch only the fields that need to be displayed to the user. Only when
-                    the user clicks on a particular record to view its further details should a query be fired to
-                    fetch the additional details for this particular record only</item>
-                        <item>A hierarchical cache should be configured and used for caching of results of most frequently used searches</item>
-                        <item>Database Indexes should be applied on the key columns used for searching</item>
-                    </enum>
+            The system should ensure high scalability and performance through: Use of cache for storing frequent data
+
                 </text_body>
+
             </req>
-        </p>
+
+        <req>
+            <text_body>
+                Only when
+                the user clicks on a particular record to view its further details should a query be fired to
+                fetch the additional details for this particular record only
+            </text_body>
+        </req>
+        
+        <req>
+            <text_body>
+                Database Indexes should be applied on the key columns used for searching
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                A hierarchical cache should be configured and used for caching of results of most frequently used searches
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                The search should fetch only the fields that need to be displayed to the user. 
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                The system should ensure high scalability and performance through: Display of records on the screen in batches/paged manner
+            </text_body> 
+        </req>
+        <req>
+            <text_body>
+                The search results should be fetched from the database in batches of 10 or 20 maximum
+                as configured within the application
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                The system should ensure high scalability and performance through: Host all the static content (documents, images) on the web server
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                The system should ensure high scalability and performance through: Leverage Asynchronous HTTP socket capabilities of web server for scalability and performance
+            </text_body>
+        </req>
+        <req>
+            <text_body>
+                The system should ensure high scalability and performance through: Use of AJAX based technology to improve user experience. 
+            </text_body>
+
+        </req>
+</p>
 
     </p>
 
