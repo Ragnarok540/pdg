@@ -84,7 +84,7 @@
             <p id="3.1.1">
 
                 <text_body>
-                Customers will be able to create accounts to store their profiles, contact information, purchase history, and confirm orders. This is a high priority system feature. Security methods will ensure that customer accounts remain confidential and resistant to tampering.
+                Customers will be able to create accounts to store their profiles, contact information, purchase history, and confirm orders. Security methods will ensure that customer accounts remain confidential and resistant to tampering.
                 </text_body>
             </p>
 
@@ -105,7 +105,7 @@
             <p id="3.2.1">
 
                 <text_body>
-            Inventory management will allow for the placement of products into multi-tiered categories. This is a medium priority system feature.
+            Inventory management will allow for the placement of products into multi-tiered categories.
                 </text_body>
             </p>
 
@@ -123,7 +123,7 @@
             </title>
             <p id="3.3.1">
                 <text_body>
-            Customers will be able to add and store products for purchase within the shopping cart. This feature is a medium priority system feature.
+            Customers will be able to add and store products for purchase within the shopping cart.
                 </text_body>
             </p>
             <p id="3.3.3">
@@ -139,7 +139,7 @@
             </title>
             <p id="3.4.1">
                 <text_body>
-            Order confirmation will allow the customer to review their order after checkout prior to confirmation. This is a medium priority system feature.
+            Order confirmation will allow the customer to review their order after checkout prior to confirmation.
                 </text_body>
             </p>
             <p id="3.4.3">
@@ -158,7 +158,7 @@
                 Description And Priority
                 </title>
                 <text_body>
-                The interface will be presented to the customer in a web browser. The interface must remain consistent among various web browsers and be intuitive to the customer. This is a medium priority system feature.
+                The interface will be presented to the customer in a web browser. The interface must remain consistent among various web browsers and be intuitive to the customer.
                 </text_body>
             </p>
             <p id="3.5.3">
@@ -210,7 +210,6 @@
                     <description>
                         <item>The order database of WebOrder will communicate with the account system through a programmatic interface for the billing operations.</item>
                         <item>Through programmatic interface, WebOrder will transmit information of items ordered by customers to the Inventory management system.</item>
-                        <item>Plug-ins interface</item>
                     </description>
                     
                 </text_body>
@@ -331,7 +330,7 @@
 
             <req id="6">
                 <text_body>
-                    The system shall be protected by open source firewall called Firestarter. http://www.fs-security.com/
+                    The system shall be protected by open source firewall called Firestarter.
                 </text_body>
             </req>
 
@@ -498,18 +497,6 @@
             <text_body>
             Yoggie shall coordinate on future enhancement and features with our
             organization.
-            </text_body>
-        </req>
-        <req id="3">
-            <text_body>
-        The system shall adhere to the following hardware requirements:
-                <itemize>
-                    <item>4GB Flash ram chip</item>
-                    <item>128MB SDRAM</item>
-                    <item>Intel XScale PXA270 520-MHz chipset</item>
-                    <item>OS: Apache web server</item>
-                    <item>Database: MySQL</item>
-                </itemize>
             </text_body>
         </req>
     </p>
