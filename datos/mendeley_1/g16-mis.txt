@@ -31,8 +31,7 @@ As a DigitalRecords Archivist, I want to grant embargo privileges to other repos
 As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
 As a collection curator, I want to have a tool to perform author authority control.
 As a collection curator, I want to move items from one collection to another.
-As a repoadmin, I want to expose repository contents via OAI-PMH.
-Auditing & Reporting.
+As a repoadmin, I want to expose repository contents via OAI-PMH Auditing & Reporting.
 As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
 As a batch submitter, I want to provide my data and metadata in a simple, documented format to the repository staff for ingest.
 As repository manager, I want to view authenticated, active users and anonymous users.
@@ -44,8 +43,7 @@ As a repoadmin, I want to continue to provide access to the repository in the ev
 As a repoadmin, I want to provide the server SLA to data contributors.
 As a repoadmin, I want to update the repository index without disrupting access to the public interface.
 As a repoadmin, I want to provide a Linked Data interface to the repository.
-As a repoadmin, I want to have Symplectic Elements to communicate
-bidirectionally with the repository.
+As a repoadmin, I want to have Symplectic Elements to communicate bidirectionally with the repository.
 As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
 As a collection curator, I want to have metadata changes made to items with repository-assigned DOIs to be propagated to the EZID.
 As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the works by that person together.

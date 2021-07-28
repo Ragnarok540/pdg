@@ -372,30 +372,11 @@
               <item>A VCD system MUST provide a functionality to check, whether the tender specific data of existing VCD packages are consistent with the tender specific data of other VCD packages.</item>
               <item>
               A VCD system MUST provide functionality to merge the following data from several existing VCD packages of other economic operators:
-                <itemize>
-                  <item>Structural VCD package data</item>
-                  <item>Structural data of evidence</item>
-                  <item>Tender specific data</item>
-                  <item>Economic operator data</item>
-                  <item>Context specific data</item>
-                  <item>Evidence</item>
-                  <item>Authorized translation of evidence</item>
-                </itemize>
               </item>
               <item>
               A VCD system MUST provide functionality to compile the data which result from the evidence
               collection process and the data provided by the economic operator in the VCD advanced package
-              creation. The types of data which have to be compiled into a VCD advanced package are
-              therefore:
-                <itemize>
-                  <item>Structural VCD package data</item>
-                  <item>Structural data of evidence</item>
-                  <item>Tender specific data</item>
-                  <item>Economic operator data</item>
-                  <item>Context specific data</item>
-                  <item>Evidence</item>
-                  <item>Authorized translation of evidence</item>
-                </itemize>
+              creation.
               </item>
               <item>Merging of VCD simple packages and VCD advanced packages into a VCD advanced package SHOULD be possible</item>
             </itemize>
@@ -446,7 +427,7 @@
             <item>There MUST be a service-level agreement between the parties involved (Economic Operators, Contracting authorities, National Service Providers, and Trusted Attestation Service) about conflict resolution that describe what to do when errors occur or when attestation or translations cannot be delivered “on demand”.</item>
             <item>The attestations where an agreement on context specific formats can be reached most easily SHOULD be included first into the network.</item>
             <item>WP2 SHOULD provide easy solutions for displaying context specific data and should enable their validation through validation values</item>
-            <item>Legal systems MUST ensure that context specific data and validation values have an equivalent value to the provision of conventional / traditional attestations. (Scope of mutual recognition).</item>
+            <item>Legal systems MUST ensure that context specific data and validation values have an equivalent value to the provision of conventional / traditional attestations (Scope of mutual recognition).</item>
             <item>The National Service Providers SHOULD establish validation points in order to approve an economic operator in accordance with Article 52 (1) of Directive 2004/18/EC.</item>
             <item>The national procurement law MUST ensure that National Service Provider can act as national validation points in accordance with Article 52 (1) of Directive 2004/18/EC for economic operators.</item>
             <item>Liability issues of the National Service Providers MUST be clarified when they act as national validation points in accordance with Article 52 (1) of Directive 2004/18/EC for economic operators.</item>

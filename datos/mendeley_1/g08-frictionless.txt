@@ -64,4 +64,3 @@ As a developer, I would like to create a web socket protocol for Frictionless da
 As a Publisher, I would like a tool to check data availability persistence after publication. 
 As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset. 
 As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data. 
-

@@ -17,7 +17,7 @@ As a depositor, I want to track citations of my data, so that I can demonstrate 
 As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
 As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can find my data more easily.
 As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrated and whole project workflow is linked together.
-As a depositor, I want to manage and share “live” research data, so that whole project workflow is linked together.
+As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
 As a depositor, I want to manage multiple versions of the same dataset, so that changes to the dataset are transparent and do not compromise research integrity.
 As a depositor, I want to allow others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
 As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.
@@ -28,9 +28,9 @@ As a data reuser, I want to view a DOI for a dataset, so that I can get back to 
 As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
 As a data reuser, I want to search the archive through Primo , so that I can search books, articles and data all in one place.
 As a data reuser, I want to see different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
-As an externalcollaborator, I want to gain privileged access to data for projects in which I am involved, so that I can collaborate effectively.
-As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
-AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
+As an external collaborator, I want to gain privileged access to data for projects in which I am involved, so that I can collaborate effectively.
+As an external coordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
+AS an external coordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
 As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer required to maintain my own archive of facility data and researchers can access their own data as needed. 
 As a Bath Data Archive administrator, I want to make some checks on deposited datasets before they are made public, so that consistent quality of metadata is maintained, compliance with policies can be checked and details of licensing can be checked.
 As a Bath Data Archive administrator, I want to require a minimum set of metadata, so that consistent quality of metadata is maintained.
@@ -43,11 +43,11 @@ As a Research Information manager, I want to include records for externally held
 As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrated.
 As a Research Information manager, I want to segment the view and download statistics by country and sector so that impact of datasets outside academia can be demonstrated.
 As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
-As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
-As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be kept low.
-As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be made.
-As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
+As an Univ IT service, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
+As an Univ IT service, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be kept low.
+As an Univ IT service, I want to store archived data directly on the HCP object store, so that  features can be made.
+As an Univ IT service, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
 As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive. 
-As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
-As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
-As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
+As an academic publisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
+As a funding body, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+As a funding body, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
